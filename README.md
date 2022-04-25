@@ -1,1 +1,1 @@
-# puzzle-sutudy
+# puzzle-study
